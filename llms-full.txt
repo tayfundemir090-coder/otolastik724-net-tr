@@ -1,0 +1,113 @@
+# Mobil Lastikçi
+
+> Mobil Lastikçi, Ankara genelinde 7 gün 24 saat çalışan mobil (gezici) lastikçidir. Bulunduğunuz yere gelerek yerinde lastik değişimi, patlak lastik tamiri ve lastik yol yardımı yapar; sıfır ve ikinci el lastik satar.
+
+## Temel bilgiler
+
+- İşletme adı: Mobil Lastikçi (Ankara Lastikçi 7/24, Ankara Oto Lastik 7/24)
+- Konum: Ankara (mobil servis; sabit müşteri kabul adresi yerine müşterinin bulunduğu yere gidilir)
+- Telefon / WhatsApp: +90 537 600 69 32
+- Çalışma saatleri: Haftanın 7 günü, 24 saat (gece, hafta sonu ve bayramlar dahil)
+- Hizmet bölgesi: Ankara geneli; özellikle Yenimahalle, Çankaya, Keçiören, Etimesgut, Altındağ, Pursaklar, Gölbaşı, Kahramankazan, Sincan
+- Hizmetler: Yerinde lastik değişimi, mobil lastik yol yardımı, patlak lastik tamiri, sıfır lastik satışı (yaz, kış, dört mevsim), ikinci el lastik satışı, lastik bakım ve kontrol (hava basıncı, diş derinliği)
+- Web: https://otolastik724.net.tr/
+
+## Sayfalar
+
+- [Anasayfa](https://otolastik724.net.tr/): Hizmetler, nasıl çalışır, hizmet bölgeleri, sık sorulan sorular ve iletişim tek sayfada.
+- [Hizmetler](https://otolastik724.net.tr/#hizmetler): Yerinde lastik değişimi, mobil yol yardımı, sıfır ve ikinci el lastik, lastik bakımı.
+- [Hizmet bölgeleri](https://otolastik724.net.tr/#bolgeler): Ankara ilçeleri.
+- [Sık sorulan sorular](https://otolastik724.net.tr/#sss): Varış süresi, tamir/değişim kararı, lastik ebatları, ikinci el lastik güvenliği.
+- [İletişim](https://otolastik724.net.tr/#iletisim): Telefon, WhatsApp ve talep formu.
+
+## Ek
+
+- [Tam içerik (llms-full.txt)](https://otolastik724.net.tr/llms-full.txt): Sitedeki metnin tamamı tek dosyada.
+
+---
+
+# Sayfa içerikleri
+
+Aşağıda sitedeki her sayfanın tam metni yer alır.
+
+---
+
+Kaynak: https://otolastik724.net.tr/
+
+## Ankara Lastikçi 7/24: lastiğiniz nerede indiyse oraya geliyoruz.
+Otoyolda, otoparkta ya da evinizin önünde fark etmez. Mobil servis aracımızla yerinde lastik değişimi, patlak lastik tamiri ve sıfır ya da ikinci el lastik satışını bulunduğunuz noktada yapıyoruz.
+- Gece, hafta sonu, bayram
+- Donanımlı mobil araç
+- Ankara'nın tüm ilçeleri
+Hizmetlerimiz
+### Mobil lastikçide ihtiyacınız olan her şey
+Lastik patladığında, havası indiğinde ya da mevsim geldiğinde aracınızı bir yere götürmenize gerek yok. Ankara'da size en yakın mobil ekibimiz işi yerinde bitirir.
+#### Yerinde Lastik Değişimi
+Aracınızın bulunduğu yere gelip lastiği sökme, takma ve bijon sıkma işlemini tork kontrolüyle yapıyoruz. Stepneye geçiş ya da yeni lastik montajı, hepsi tek ziyarette.
+- Ev, iş yeri, otopark
+- Stepne montajı
+#### Mobil Lastik Yol Yardımı
+Yolda kaldıysanız güvenli bir noktaya çekin ve bizi arayın. Patlak lastiği yerinde tamir ediyor, tamir mümkün değilse aracınızı yeniden yola çıkaracak lastiği getiriyoruz.
+- Patlak lastik tamiri
+- Hava basma ve kontrol
+#### Sıfır Lastik Satışı
+Aracınızın ebadına ve kullanımınıza uygun yaz, kış ve dört mevsim lastik seçeneklerini sunuyor, montajını yerinde yapıyoruz. Fiyatı telefonda netleştirir, sürpriz yaşatmayız.
+- Yaz, kış, 4 mevsim
+- Yerinde montaj
+#### İkinci El Lastik Satışı
+Bütçenizi zorlamadan güvenle yola devam etmeniz için diş derinliği, üretim yılı ve yanak durumu kontrol edilmiş ikinci el lastikler. Tek lastik ihtiyacında da pratik bir çözüm.
+- Kontrol edilmiş ürün
+- Tekli satış
+#### Lastik Bakım ve Kontrol
+Hava basıncı ayarı, diş derinliği ölçümü ve düzensiz aşınma kontrolüyle lastiklerinizin ömrünü uzatıyor, yakıt tüketimini ve fren mesafesini olumsuz etkileyen sorunları önceden yakalıyoruz.
+- Basınç ayarı
+- Diş derinliği ölçümü
+#### Acil durumda tek numara
+Hangi hizmete ihtiyacınız olduğundan emin değil misiniz? Arayın, durumu dinleyip doğru çözümü söyleyelim.
+0537 600 69 32
+Nasıl Çalışır
+### Üç adımda yeniden yoldasınız
+Lastik sorunu stresli olabilir; süreci olabildiğince sade tuttuk.
+#### Arayın veya konum gönderin
+Telefonla arayın ya da WhatsApp'tan konumunuzu paylaşın. Araç modelinizi ve lastik ebadını biliyorsanız iletin.
+#### Yerinde inceleyelim
+Mobil ekibimiz gelir, lastiği kontrol eder. Tamir mi değişim mi gerektiğini ve ücretini işe başlamadan önce söyler.
+#### İşi bitirip yola çıkaralım
+Tamir veya değişimi yapar, bijonları tork ile sıkar, hava basıncını ayarlarız. Siz güvenle yolunuza devam edersiniz.
+Güvenliğiniz için: aracınızı emniyet şeridine çekin, dörtlüleri yakın ve reflektör koyun.
+Neden Biz
+### Ankara'da en yakın lastikçiyi aramayın, o size gelsin
+Lastik sorunu yaşayan sürücünün aradığı şey basit: hızlı ulaşan, işini düzgün yapan ve fiyatını baştan söyleyen bir usta. Mobil Lastikçi olarak mobil lastikçiliği bu üç ilke üzerine kurduk.
+Sıfır ve ikinci el lastik seçeneklerini aynı araçta taşıdığımız için çoğu durumda tek ziyarette sorunu çözüyor, sizi çekici ya da sanayi yolculuğuyla uğraştırmıyoruz.
+7/24 Gece, hafta sonu ve bayramlarda da aynı numaradan ulaşırsınız.
+#### Size biz geliriz
+Aracınızı sürüklemenize gerek yok; işlem bulunduğunuz yerde yapılır.
+#### Önce fiyat, sonra iş
+Ücreti işe başlamadan söyleriz; onayınız olmadan işlem yapılmaz.
+#### Güvenli montaj
+Bijonlar tork ile sıkılır, hava basıncı üretici değerine ayarlanır.
+#### Bütçeye göre seçenek
+Sıfır ya da kontrol edilmiş ikinci el; karar sizin.
+Hizmet Bölgeleri
+### Ankara'nın her ilçesinde mobil lastikçi
+Merkez ilçelerden çevre yollarına kadar Ankara genelinde 7/24 yerinde lastik değişimi ve lastik yol yardımı veriyoruz. Aşağıdaki ilçelerde düzenli olarak çalışıyoruz; listede olmayan bir bölgedeyseniz yine arayın.
+Sıkça Sorulan Sorular
+### Lastik yardımı hakkında merak edilenler
+Gece yarısı lastiğim patlasa gelir misiniz?
+Evet. Mobil Lastikçi gece, hafta sonu ve bayram demeden hizmet verir. Aradığınızda konumunuzu alır, en yakın mobil ekibimizi yönlendiririz.
+Ekibiniz ne kadar sürede ulaşır?
+Varış süresi bulunduğunuz ilçeye, saate ve trafik durumuna göre değişir. Telefonda konumunuzu öğrendiğimizde size tahmini bir süre söyleriz.
+Patlak lastik tamir edilebilir mi, yoksa değişmesi mi gerekir?
+Diş yüzeyindeki küçük delikler çoğunlukla tamir edilebilir. Yanak bölgesindeki kesik, balon veya uzun süre havasız sürülmüş lastikler güvenlik nedeniyle tamir edilmez; bu durumda yeni ya da ikinci el lastik öneririz.
+Hangi ebatlarda lastik getirebiliyorsunuz?
+Otomobil, SUV ve hafif ticari araçlarda en yaygın ebatları mobil aracımızda bulundururuz. Lastiğinizin yanağındaki ebat bilgisini (ör. 205/55 R16) telefonda paylaşırsanız doğru lastikle geliriz.
+İkinci el lastikler güvenli mi?
+Sattığımız ikinci el lastiklerin diş derinliği, üretim tarihi ve yanak durumu tek tek kontrol edilir. Yaşlanmış, çatlamış veya onarım izi taşıyan lastikleri satışa sunmayız.
+Ankara'nın hangi ilçelerine hizmet veriyorsunuz?
+Yenimahalle, Çankaya, Keçiören, Etimesgut, Altındağ, Pursaklar, Gölbaşı, Kahramankazan ve Sincan başta olmak üzere Ankara genelinde hizmet veriyoruz. Farklı bir bölgedeyseniz arayarak bilgi alabilirsiniz.
+İletişim
+### Lastik sorununuzu anlatın, yola çıkalım
+Acil durumlarda en hızlı yol telefonla aramak. Acil değilse formu doldurun; mesajınız WhatsApp üzerinden bize ulaşsın.
+Telefon · 7/24 0537 600 69 32 WhatsApp 0537 600 69 32
+Hizmet bölgesi Ankara geneli, mobil servis
+Çalışma saatleri 7 gün 24 saat

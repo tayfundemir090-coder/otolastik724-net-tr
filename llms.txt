@@ -1,0 +1,25 @@
+# Mobil Lastikçi
+
+> Mobil Lastikçi, Ankara genelinde 7 gün 24 saat çalışan mobil (gezici) lastikçidir. Bulunduğunuz yere gelerek yerinde lastik değişimi, patlak lastik tamiri ve lastik yol yardımı yapar; sıfır ve ikinci el lastik satar.
+
+## Temel bilgiler
+
+- İşletme adı: Mobil Lastikçi (Ankara Lastikçi 7/24, Ankara Oto Lastik 7/24)
+- Konum: Ankara (mobil servis; sabit müşteri kabul adresi yerine müşterinin bulunduğu yere gidilir)
+- Telefon / WhatsApp: +90 537 600 69 32
+- Çalışma saatleri: Haftanın 7 günü, 24 saat (gece, hafta sonu ve bayramlar dahil)
+- Hizmet bölgesi: Ankara geneli; özellikle Yenimahalle, Çankaya, Keçiören, Etimesgut, Altındağ, Pursaklar, Gölbaşı, Kahramankazan, Sincan
+- Hizmetler: Yerinde lastik değişimi, mobil lastik yol yardımı, patlak lastik tamiri, sıfır lastik satışı (yaz, kış, dört mevsim), ikinci el lastik satışı, lastik bakım ve kontrol (hava basıncı, diş derinliği)
+- Web: https://otolastik724.net.tr/
+
+## Sayfalar
+
+- [Anasayfa](https://otolastik724.net.tr/): Hizmetler, nasıl çalışır, hizmet bölgeleri, sık sorulan sorular ve iletişim tek sayfada.
+- [Hizmetler](https://otolastik724.net.tr/#hizmetler): Yerinde lastik değişimi, mobil yol yardımı, sıfır ve ikinci el lastik, lastik bakımı.
+- [Hizmet bölgeleri](https://otolastik724.net.tr/#bolgeler): Ankara ilçeleri.
+- [Sık sorulan sorular](https://otolastik724.net.tr/#sss): Varış süresi, tamir/değişim kararı, lastik ebatları, ikinci el lastik güvenliği.
+- [İletişim](https://otolastik724.net.tr/#iletisim): Telefon, WhatsApp ve talep formu.
+
+## Ek
+
+- [Tam içerik (llms-full.txt)](https://otolastik724.net.tr/llms-full.txt): Sitedeki metnin tamamı tek dosyada.
