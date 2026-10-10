@@ -72,19 +72,9 @@
     window.dataLayer = window.dataLayer || [];
     var ac = window.AntiClick;
     if (ac && typeof ac.isClean === 'function') {
-      ac.isClean().then(function (ok) { if (ok) send(ev); });
+      ac.isClean().then(function (ok) { if (ok) window.dataLayer.push(ev); });
     } else {
-      send(ev);
-    }
-  }
-
-  // GTM'e (Google Ads) + GA4'e (gtag) gönder. GA4'e telefon (user_data) gitmez.
-  function send(ev) {
-    window.dataLayer.push(ev);
-    if (typeof window.gtag === 'function') {
-      var params = {};
-      for (var k in ev) if (k !== 'event' && k !== 'user_data') params[k] = ev[k];
-      window.gtag('event', ev.event, params);
+      window.dataLayer.push(ev);
     }
   }
 
